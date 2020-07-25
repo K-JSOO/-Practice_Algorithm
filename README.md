@@ -24,4 +24,4 @@
 22. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
-sql_coding_practice
+1. sql_coding_practice
