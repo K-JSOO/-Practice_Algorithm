@@ -18,10 +18,11 @@
 16. rectangle : 직사각형 좌표
 17. remove min : 제일 작은 수 제거하기
 18. sqrt : 정수 제곱근 판별
-19. sum between integers : 두 정수 사이의 합
-20. sum measure : 약수들의 합
-21. watermelon : 수박수박수
-22. x term_count n : x만큼 간격이 있는 n개의 숫자
+19. star_square : 별모양으로 사각형 찍기
+20. sum between integers : 두 정수 사이의 합
+21. sum measure : 약수들의 합
+22. watermelon : 수박수박수
+23. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
 1. sql_coding_practice
