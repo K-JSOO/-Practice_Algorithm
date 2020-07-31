@@ -14,15 +14,16 @@
 12. find decimal : 소수 찾기
 13. greatest common measure_least common multiple : 최대공약수와 최소공배수
 14. integer des : 정수를 내림차순으로 정리
-15. no_completion : 완주하지 못한 선수
-16. rectangle : 직사각형 좌표
-17. remove min : 제일 작은 수 제거하기
-18. sqrt : 정수 제곱근 판별
-19. star_square : 별모양으로 사각형 찍기
-20. sum between integers : 두 정수 사이의 합
-21. sum measure : 약수들의 합
-22. watermelon : 수박수박수
-23. x term_count n : x만큼 간격이 있는 n개의 숫자
+15. keypad : keypad의 오른손, 왼손 위치에 따른 R/L 출력
+16. no_completion : 완주하지 못한 선수
+17. rectangle : 직사각형 좌표
+18. remove min : 제일 작은 수 제거하기
+19. sqrt : 정수 제곱근 판별
+20. star_square : 별모양으로 사각형 찍기
+21. sum between integers : 두 정수 사이의 합
+22. sum measure : 약수들의 합
+23. watermelon : 수박수박수
+24. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
 1. sql_coding_practice
