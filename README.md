@@ -10,20 +10,22 @@
 8. adding digits : 정수 각자리수 더하기
 9. basic str : 문자열의 길이가 4 또는 6이고 문자열에 숫자만 있으면 True, 문자가 포함되어 있으면 False
 10. change_str_int : 문자열을 정수로 바꾸기
-11. find Kim : 김서방 찾기
-12. find decimal : 소수 찾기
-13. greatest common measure_least common multiple : 최대공약수와 최소공배수
-14. integer des : 정수를 내림차순으로 정리
-15. keypad : keypad의 오른손, 왼손 위치에 따른 R/L 출력
-16. no_completion : 완주하지 못한 선수
-17. rectangle : 직사각형 좌표
-18. remove min : 제일 작은 수 제거하기
-19. sqrt : 정수 제곱근 판별
-20. star_square : 별모양으로 사각형 찍기
-21. sum between integers : 두 정수 사이의 합
-22. sum measure : 약수들의 합
-23. watermelon : 수박수박수
-24. x term_count n : x만큼 간격이 있는 n개의 숫자
+11. count_duplicate : 중복되는 요소 개수 구하기
+12. find Kim : 김서방 찾기
+13. find decimal : 소수 찾기
+14. greatest common measure_least common multiple : 최대공약수와 최소공배수
+15. integer des : 정수를 내림차순으로 정리
+16. keypad : keypad의 오른손, 왼손 위치에 따른 R/L 출력
+17. num_check : 기존 문자 리스트에 해당하는 숫자 리스트와 새로운 문자 리스트에 해당하는 숫자 리스트의 요소값들이 같은지 확인
+18. no_completion : 완주하지 못한 선수
+19. rectangle : 직사각형 좌표
+20. remove min : 제일 작은 수 제거하기
+21. sqrt : 정수 제곱근 판별
+22. star_square : 별모양으로 사각형 찍기
+23. sum between integers : 두 정수 사이의 합
+24. sum measure : 약수들의 합
+25. watermelon : 수박수박수
+26. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
 1. sql_coding_practice
