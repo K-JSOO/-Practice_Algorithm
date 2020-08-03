@@ -18,14 +18,16 @@
 16. keypad : keypad의 오른손, 왼손 위치에 따른 R/L 출력
 17. num_check : 기존 문자 리스트에 해당하는 숫자 리스트와 새로운 문자 리스트에 해당하는 숫자 리스트의 요소값들이 같은지 확인
 18. no_completion : 완주하지 못한 선수
-19. rectangle : 직사각형 좌표
-20. remove min : 제일 작은 수 제거하기
-21. sqrt : 정수 제곱근 판별
-22. star_square : 별모양으로 사각형 찍기
-23. sum between integers : 두 정수 사이의 합
-24. sum measure : 약수들의 합
-25. watermelon : 수박수박수
-26. x term_count n : x만큼 간격이 있는 n개의 숫자
+19. no_samenum : 연속되는 숫자는 중복 제거하고 출력 (예 [1,1,2,3,4,4] -> [1,2,3,4])
+20. rectangle : 직사각형 좌표
+21. remove min : 제일 작은 수 제거하기
+22. sqrt : 정수 제곱근 판별
+23. star_square : 별모양으로 사각형 찍기
+24. str_mid : 문자열의 가운데 글자 찾기 단, 문자여이 짝수일떄는 가운데 2글자 찾기   
+25. sum between integers : 두 정수 사이의 합
+26. sum measure : 약수들의 합
+27. watermelon : 수박수박수
+28. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
 1. sql_coding_practice
