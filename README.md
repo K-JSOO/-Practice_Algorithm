@@ -1,4 +1,4 @@
-# -Practice_Algorithm
+# Practice_Algorithm
 
 1. Count_p_y_in_str : 문자열 내 p와 y의 개수
 2. Div_list : 나누어 떨어지는 숫자 배열
