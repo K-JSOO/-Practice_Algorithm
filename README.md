@@ -23,13 +23,14 @@
 21. remove min : 제일 작은 수 제거하기
 22. reverse_array : 입력받은 숫자를 뒤집어 배열로 출력
 23. reverse_str : 문자열 뒤집기
-24. sqrt : 정수 제곱근 판별
-25. star_square : 별모양으로 사각형 찍기
-26. str_mid : 문자열의 가운데 글자 찾기 단, 문자여이 짝수일떄는 가운데 2글자 찾기   
-27. sum between integers : 두 정수 사이의 합
-28. sum measure : 약수들의 합
-29. watermelon : 수박수박수
-30. x term_count n : x만큼 간격이 있는 n개의 숫자
+24. slide_str : 알파벳을 주어진 숫자만큼 뒤의 알파벳으로 
+25. sqrt : 정수 제곱근 판별
+26. star_square : 별모양으로 사각형 찍기
+27. str_mid : 문자열의 가운데 글자 찾기 단, 문자여이 짝수일떄는 가운데 2글자 찾기   
+28. sum between integers : 두 정수 사이의 합
+29. sum measure : 약수들의 합
+30. watermelon : 수박수박수
+31. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
 1. sql_coding_practice
