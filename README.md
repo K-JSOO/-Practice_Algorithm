@@ -27,7 +27,7 @@
 25. slide_str : 알파벳을 주어진 숫자만큼 뒤의 알파벳으로 
 26. sqrt : 정수 제곱근 판별
 27. star_square : 별모양으로 사각형 찍기
-28. str_mid : 문자열의 가운데 글자 찾기 단, 문자여이 짝수일떄는 가운데 2글자 찾기   
+28. str_mid : 문자열의 가운데 글자 찾기 단, 문자열이 짝수일때는 가운데 2글자 찾기   
 29. sum between integers : 두 정수 사이의 합
 30. sum measure : 약수들의 합
 31. watermelon : 수박수박수
