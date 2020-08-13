@@ -17,22 +17,23 @@
 15. greatest common measure_least common multiple : 최대공약수와 최소공배수
 16. integer des : 정수를 내림차순으로 정리
 17. keypad : keypad의 오른손, 왼손 위치에 따른 R/L 출력
-18. num_check : 기존 문자 리스트에 해당하는 숫자 리스트와 새로운 문자 리스트에 해당하는 숫자 리스트의 요소값들이 같은지 확인
-19. no_completion : 완주하지 못한 선수
-20. samenum : 연속되는 숫자는 중복 제거하고 출력 (예 [1,1,2,3,4,4] -> [1,2,3,4])
-21. rectangle : 직사각형 좌표
-22. remove min : 제일 작은 수 제거하기
-23. reverse_array : 입력받은 숫자를 뒤집어 배열로 출력
-24. reverse_str : 문자열 뒤집기
-25. slide_str : 알파벳을 주어진 숫자만큼 뒤의 알파벳으로 
-26. sqrt : 정수 제곱근 판별
-27. star_square : 별모양으로 사각형 찍기
-28. str_mid : 문자열의 가운데 글자 찾기 단, 문자열이 짝수일때는 가운데 2글자 찾기
-29. str_sort : 문자의 n번째 자리의 문자로 정렬하기
-30. sum between integers : 두 정수 사이의 합
-31. sum measure : 약수들의 합
-32. watermelon : 수박수박수
-33. x term_count n : x만큼 간격이 있는 n개의 숫자
+18. my_collatz : 콜라츠 추측
+19. num_check : 기존 문자 리스트에 해당하는 숫자 리스트와 새로운 문자 리스트에 해당하는 숫자 리스트의 요소값들이 같은지 확인
+20. no_completion : 완주하지 못한 선수
+21. samenum : 연속되는 숫자는 중복 제거하고 출력 (예 [1,1,2,3,4,4] -> [1,2,3,4])
+22. rectangle : 직사각형 좌표
+23. remove min : 제일 작은 수 제거하기
+24. reverse_array : 입력받은 숫자를 뒤집어 배열로 출력
+25. reverse_str : 문자열 뒤집기
+26. slide_str : 알파벳을 주어진 숫자만큼 뒤의 알파벳으로 
+27. sqrt : 정수 제곱근 판별
+28. star_square : 별모양으로 사각형 찍기
+29. str_mid : 문자열의 가운데 글자 찾기 단, 문자열이 짝수일때는 가운데 2글자 찾기
+30. str_sort : 문자의 n번째 자리의 문자로 정렬하기
+31. sum between integers : 두 정수 사이의 합
+32. sum measure : 약수들의 합
+33. watermelon : 수박수박수
+34. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
 1. sql_coding_practice
