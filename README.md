@@ -33,7 +33,9 @@
 31. sum between integers : 두 정수 사이의 합
 32. sum measure : 약수들의 합
 33. watermelon : 수박수박수
-34. x term_count n : x만큼 간격이 있는 n개의 숫자
+34. wrong_text : 어떤 단어에서 문자를 더 누르는 오타는 낼 수 있지만 아예 다른 오타는 못냄 (예 'abc'->'abccc','abbbc' True,
+'abc'->'abdc','abcd' Fales)
+35. x term_count n : x만큼 간격이 있는 n개의 숫자
 
 # SQL 
 1. sql_coding_practice
