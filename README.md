@@ -7,7 +7,7 @@
 5. Number_K : K번째 수
 6. Odd_Even : 홀수와 짝수
 7. add_matrix : 행렬의 덧셈
-8. adding digits : 정수 각자리수 더하기
+8. adding digits : 정수 각 자리수 더하기
 9. basic str : 문자열의 길이가 4 또는 6이고 문자열에 숫자만 있으면 True, 문자가 포함되어 있으면 False
 10. change_str_int : 문자열을 정수로 바꾸기
 11. count_duplicate : 중복되는 요소 개수 구하기
